@@ -1,0 +1,45 @@
+/*Code by Sungharsh Jarathi*/
+.container{
+	width:90%;
+	background-color:#d4ecef;
+	padding-bottom:30px;
+	margin-top:10px;
+  border:solid #bdbdbd 2px;
+}
+.btn-primary.raised {
+  -webkit-box-shadow: 5px 4px 13px #666666;
+  -moz-box-shadow: 5px 4px 13px #666666;
+  box-shadow: 8px 5px 12px #666;
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  background-color:#dedede;
+  border-color:#d6a951;
+  border-width:2px;
+  color:#3c3c3c;
+}
+.btn-userdefined{
+  width:60px;
+  background: #3498db;
+  text-align:center;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 5px 10px 5px 10px;
+  border: solid #4d4d4d 0.5px;
+  text-decoration: none;
+}
+.btn:hover{
+  background: #f2feff;
+  text-decoration: none;
+}
+.btn-img{
+	padding-bottom:5px;
+}
+.fa-login{
+  padding: 0px;
+  margin: 0px;
+}
+
+ 
